@@ -1,3 +1,7 @@
+/* 
+Get process run information similar to what you get in process monitor. 
+Includes log/trace filenames.
+*/
 WITH
     CTE_XLT AS  (
         /* get max effective dated translate values */
