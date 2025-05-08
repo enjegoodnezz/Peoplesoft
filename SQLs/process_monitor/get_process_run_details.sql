@@ -1,6 +1,5 @@
 /* 
-Get process run information similar to what you get in process monitor. 
-Includes log/trace filenames.
+SQL to query process run details, similar to what you get in process monitor, and includes log/trace filenames.
 */
 WITH
     CTE_XLT AS  (
